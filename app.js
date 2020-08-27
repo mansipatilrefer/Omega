@@ -3,15 +3,15 @@
 
 ///Edit Under This only
 
-var firebaseConfig = {
-  apiKey: "api-key",
-  authDomain: "project-id.firebaseapp.com",
-  databaseURL: "https://project-id.firebaseio.com",
-  projectId: "project-id",
-  storageBucket: "project-id.appspot.com",
-  messagingSenderId: "sender-id",
-  appId: "app-id",
-  measurementId: "G-measurement-id",
+const firebaseConfig = {
+  apiKey: "AIzaSyAdqP5r-X4lZB5GPoe3sSWn3h2pqf396XI",
+  authDomain: "instacheck-ca9ac.firebaseapp.com",
+  databaseURL: "https://instacheck-ca9ac.firebaseio.com",
+  projectId: "instacheck-ca9ac",
+  storageBucket: "instacheck-ca9ac.appspot.com",
+  messagingSenderId: "247573724314",
+  appId: "1:247573724314:web:90a7631ee6a1968cb33323",
+  measurementId: "G-2JVWHE56SK"
 };
 
      
